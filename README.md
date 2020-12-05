@@ -1,7 +1,6 @@
 🚀 Desafio Node.js
 
 Nesse desafio, foi criada uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
-Template da aplicação
 
 Para utilização da aplicação siga os passos abaixo:
 
